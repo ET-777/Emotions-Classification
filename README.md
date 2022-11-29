@@ -29,6 +29,7 @@ Tokenized text: [  1 138   2 678   0   0   0   0   0   0   0   0   0   0   0   0
    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
    0   0   0   0   0   0   0   0   0   0   0   0]
 
+<br /><br />
 The model is constructed sequentially with an input emdedding layer, two BLSTM layers with 256 neurons and an output Dense layer. The outpt layer has a linear activation with a SparseCategoricalCrossEntropy loss function, as it is better computationally than the softmax activation.
 
 <p align="center">

@@ -71,7 +71,7 @@ Validation | 0.170 | 0.93
 Testing | 0.170 | 0.93
 
 <br /><br />
-The loss scores are all close for all datasets with no overfitting. With accuracies above 90%, It's an excellent model.
+The loss scores are all close for all datasets with no overfitting. With low loss and accuracies above 90%, It's an excellent model.
 <br /><br />
 
 Installation
